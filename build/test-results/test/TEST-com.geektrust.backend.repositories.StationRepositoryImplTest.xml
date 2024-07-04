@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.repositories.StationRepositoryImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-07-03T17:58:23" hostname="LAPTOP-A6HLTEB2" time="0.008">
+  <properties/>
+  <testcase name="findAllStation()" classname="com.geektrust.backend.repositories.StationRepositoryImplTest" time="0.002"/>
+  <testcase name="findByName_shouldReturnStation_givenName()" classname="com.geektrust.backend.repositories.StationRepositoryImplTest" time="0.001"/>
+  <testcase name="saveStation()" classname="com.geektrust.backend.repositories.StationRepositoryImplTest" time="0.002"/>
+  <testcase name="findByName_shouldReturnEmpty_IfNameNotFound()" classname="com.geektrust.backend.repositories.StationRepositoryImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
