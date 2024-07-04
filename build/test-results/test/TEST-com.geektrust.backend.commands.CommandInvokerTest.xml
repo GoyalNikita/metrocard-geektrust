@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.geektrust.backend.commands.CommandInvokerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-03T17:58:23" hostname="LAPTOP-A6HLTEB2" time="0.064">
-  <properties/>
-  <testcase name="executeCommand_shouldThrowException_givenIncorrectNameAndTokens()" classname="com.geektrust.backend.commands.CommandInvokerTest" time="0.059"/>
-  <testcase name="executeCommand_shouldExecuteCommand_givenNameAndTokens()" classname="com.geektrust.backend.commands.CommandInvokerTest" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

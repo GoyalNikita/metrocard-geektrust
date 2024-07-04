@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.geektrust.backend.repositories.MetroCardRepositoryImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-03T17:58:23" hostname="LAPTOP-A6HLTEB2" time="0.007">
-  <properties/>
-  <testcase name="findByCardNumber_shouldReturnEmpty_IfCardNumberNotFound()" classname="com.geektrust.backend.repositories.MetroCardRepositoryImplTest" time="0.003"/>
-  <testcase name="findByCardNumber_shouldReturnMetroCard_givenCardNumber()" classname="com.geektrust.backend.repositories.MetroCardRepositoryImplTest" time="0.001"/>
-  <testcase name="saveMetroCard()" classname="com.geektrust.backend.repositories.MetroCardRepositoryImplTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

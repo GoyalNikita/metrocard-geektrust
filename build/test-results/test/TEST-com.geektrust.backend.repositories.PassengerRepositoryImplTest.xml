@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.geektrust.backend.repositories.PassengerRepositoryImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-03T17:58:23" hostname="LAPTOP-A6HLTEB2" time="0.003">
-  <properties/>
-  <testcase name="findByMetroCard_shouldReturnEmpty_IfMetroCardNotFound()" classname="com.geektrust.backend.repositories.PassengerRepositoryImplTest" time="0.001"/>
-  <testcase name="findByMetroCard_shouldReturnPassenger_givenMetroCard()" classname="com.geektrust.backend.repositories.PassengerRepositoryImplTest" time="0.001"/>
-  <testcase name="savePassenger()" classname="com.geektrust.backend.repositories.PassengerRepositoryImplTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
